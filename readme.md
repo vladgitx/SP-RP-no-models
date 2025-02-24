@@ -33,7 +33,7 @@ This is plug and play for any competent developer. Uses sampctl for plugin manag
 
 There are minor bugs but this ran in production for over 5 years. It should be stable, although if you're looking to host it, invest in a dedicated server with at least 3gb of ram and a shit ton of CPU power. The vehicle module is severely outdated and clogs up resources like crazy. 
 
-I'd say 80-85% of the script is dynamic, meaning it's saved on MySQL. It has UCP support but our UCP remains closed source since the developer (Rusu) will recycle it for other projects. I'd recommend against using this as a base, but with some love, it's pretty much the ideal script for any medium level roleplay server.
+I'd say 80-85% of the script is dynamic, meaning it's saved on MySQL. It has UCP support, the UCP intended for use you can find here: https://github.com/rzrusu/SPRP-UCP made by @rzrusu. I'd recommend against using the gamemode as a base, but with some love, it's pretty much the ideal script for any medium level roleplay server.
 
 The original repository remains private. There is sensitive data in commits that do not belong in the public.
 
